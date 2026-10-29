@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Notepad4 Free Installer** — Notepad4 is a free, lightweight Windows text editor enhanced from Notepad2, adding more language syntax support, a file browser, and additional features while maintaining the fast startup and small footprint of the original.. Works without internet access, no account required. Full offline installation.
+**💻 Notepad4 Free Installer** — Notepad4 is a free, open-source enhanced replacement for Windows Notepad that provides syntax highlighting, code folding, regular expression support, and encoding handling. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Notepad4
 
-Notepad4 is a free, lightweight Windows text editor enhanced from Notepad2, adding more language syntax support, a file browser, and additional features while maintaining the fast startup and small footprint of the original.
+Notepad4 is a free, open-source enhanced replacement for Windows Notepad that provides syntax highlighting, code folding, regular expression support, and encoding handling. Based on the Notepad2 lineage, Notepad4 aims to be a simple but powerful Notepad replacement that loads instantly and handles most everyday text and code editing needs without the complexity of a full IDE.
 
 ---
 
 ## ❌ Problem: Notepad4 is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Basic Feature Set** — Positioned as a Notepad replacement, not a full IDE
-- **Limited Extensions** — No plugin ecosystem for extending functionality
-- **Niche Use** — Most users better served by Notepad3, Notepad++ or more capable editors
+- **Windows Only** — Designed as a Windows Notepad replacement
+- **Limited Features** — Not suitable for complex multi-file projects or IDE workflows
+- **No Extensions** — Cannot be extended with plugins for additional language support
+- **Simple Use Cases** — Best for quick edits, not serious development work
 
 ---
 
@@ -121,7 +121,7 @@ Notepad4 is a free, lightweight Windows text editor enhanced from Notepad2, addi
 
 ---
 
-**Notepad4 Free Installer** — Notepad4 is a free, lightweight Windows text editor enhanced from Notepad2, adding more language syntax support, a file browser, and additional features while maintaining the fast startup and small footprint of the original.. Install without internet connection today!
+**Notepad4 Free Installer** — Notepad4 is a free, open-source enhanced replacement for Windows Notepad that provides syntax highlighting, code folding, regular expression support, and encoding handling. Install without internet connection today!
 
 <div align="center">
 
